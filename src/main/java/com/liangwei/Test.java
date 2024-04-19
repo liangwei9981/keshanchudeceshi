@@ -19,6 +19,7 @@ public class Test {
 		System.out.println(111222444);
 		System.out.println(111222333);
 		System.out.println("push test");
+		System.out.println("origin xiugai, need pull");
 
 	}
 
