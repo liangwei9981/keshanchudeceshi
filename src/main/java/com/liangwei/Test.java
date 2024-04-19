@@ -17,6 +17,7 @@ public class Test {
 		System.out.println(context.getBean("zhouyuFactoryBean"));
 		System.out.println(context.getBean("&zhouyuFactoryBean"));
 		System.out.println(111222444);
+		System.out.println(111222333);
 
 	}
 
