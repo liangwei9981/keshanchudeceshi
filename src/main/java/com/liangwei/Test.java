@@ -16,6 +16,7 @@ public class Test {
 		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 		System.out.println(context.getBean("zhouyuFactoryBean"));
 		System.out.println(context.getBean("&zhouyuFactoryBean"));
+		System.out.println(111);
 
 	}
 
